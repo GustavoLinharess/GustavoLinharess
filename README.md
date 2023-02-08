@@ -15,7 +15,7 @@
   >
   <img align="center" alt="guJava" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
   >
-   <img align="right" alt="gupict" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/99147725/217669295-215cf0c7-5d41-4c33-b82c-90a6a738fc4e.gif>
+  
   
  
 <div> 
