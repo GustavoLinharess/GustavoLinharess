@@ -1,4 +1,15 @@
-## Olá eu sou o Gustavo Linhares, estudante da Universidade de Brasilia e futuro Engenheiro de Software !
+## Olá eu sou o Gustavo Linhares, estudante da Universidade de Brasilia !
+
+ <h3 align= "left"> Um pouco sobre mim </div>
+    
+  
+  - Tenho 18 anos
+  - Moro em Brasília 
+  - Amo Futebol e jogos
+  - Curso Engenharia de Software.
+  - 
+  
+  <br>  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="guPython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -6,7 +17,7 @@
   >
   <img align="center" alt="guJava" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
   >
-   <img align="right" alt="gupict" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1072994914582929409/1072995062155329557/gupict.gif>
+   <img align="right" alt="gupict" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/99147725/217669295-215cf0c7-5d41-4c33-b82c-90a6a738fc4e.gif>
   
  
 <div> 
