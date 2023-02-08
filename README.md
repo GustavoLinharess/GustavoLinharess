@@ -1,14 +1,12 @@
 ## Olá eu sou o Gustavo Linhares, estudante da Universidade de Brasilia !
-
+- Atualmente estou aprendendo C, Java e Python.
+ 
  <h3 align= "left"> Um pouco sobre mim </div>
-    
-  
+
   - Tenho 18 anos
   - Moro em Brasília 
   - Amo Futebol e jogos
   - Curso Engenharia de Software.
-  - 
-  
   <br>  
 
 <div style="display: inline_block"><br>
