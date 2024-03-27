@@ -1,5 +1,5 @@
 ## Olá eu sou o Gustavo Linhares, estudante da Universidade de Brasilia !
-- Atualmente estou aprendendo C.
+
  
  <h3 align= "left"> Um pouco sobre mim </div>
 
