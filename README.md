@@ -5,7 +5,6 @@
 
   - Tenho 19 anos
   - Moro em Brasília 
-  - Amo Futebol,jogos e programação
   - Curso Engenharia de Software.
   <br>  
 
